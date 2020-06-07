@@ -1,2 +1,10 @@
-var age = 28;
-console.log(age);
+var bananaPrice = 12;
+console.log(typeof bananaPrice);
+var seenAfter = 21;
+console.log(typeof seenAfter);
+var name = "Rakibul Islam";
+console.log(typeof name);
+var isHot = true;
+console.log(typeof isHot);
+var isRich = false;
+console.log(typeof isRich);
