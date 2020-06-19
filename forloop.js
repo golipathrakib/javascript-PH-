@@ -14,7 +14,7 @@ for(var i = 0; i < nums.length; i++){
     console.log(element);
 }*/
 
-var f = ["Rakib","Aupu", "Suzon", " Mithun"];
+var f = ["Rakib","Aupu", "Suzon", "Mithun"];
 for (var i = 0; i < f.length; i++){
     var fList = f[i];
     console.log(fList);
